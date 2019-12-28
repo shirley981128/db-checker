@@ -1,0 +1,30 @@
+core_db:
+  channel_test:
+    dbName: "information_schema"
+    writeHost: ""
+    writePort:
+    writeUser: ""
+    writePassword: ""
+    writeTimeout: "2.0s"
+    readHost: ""
+    readPort:
+    readUser: ""
+    readPassword: ""
+    readTimeout: "1.0s"
+    connectTimeout: "1.0s"
+    logMode: true
+  core_test:
+    dbName: "information_schema"
+    writeHost: ""
+    writePort:
+    writeUser: ""
+    writePassword: ""
+    writeTimeout: "2.0s"
+    readHost: ""
+    readPort:
+    readUser: ""
+    readPassword: ""
+    readTimeout: "1.0s"
+    connectTimeout: "0.1s"
+    logMode: true
+
